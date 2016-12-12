@@ -1,9 +1,9 @@
 pesma-limit
 ===========
 
-Parallel Equitable Stable Marriage with Limited Preference Lists
+Parallel Equitable Stable Marriage with Limited Preference Lists, as presented on ALGOCLOUD 2016
 
-As presented on ALGOCLOUD 2016
+See: [ESMA](https://github.com/equitable-stable-matching/esma)
 
 Building source code
 --------------------
