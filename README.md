@@ -15,4 +15,4 @@ Running
 -------
 Example run:
 
-    $ ./pesma-limit4 
+    $ ./pesma-limit4 --N 1000 --n 1000 --K 400
